@@ -4,3 +4,5 @@ fix bug!!
 
 123	STORE THEEE DEMOS OF LITTLE PROJECTS!	
 
+open yes 123;
+
