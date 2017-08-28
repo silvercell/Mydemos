@@ -1,7 +1,7 @@
 [Pro details]
-fix bug!!
 
 
+ok fix bug and dev merge
 123	STORE THEEE DEMOS OF LITTLE PROJECTS!	
 
 open yes 123;
